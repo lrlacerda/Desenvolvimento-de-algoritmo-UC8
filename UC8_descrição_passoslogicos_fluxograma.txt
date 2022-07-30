@@ -1,0 +1,11 @@
+1 - Inicio do Programa 
+2 - Data do atual do dia 
+3 - Data que ousuário vai digitar do evento
+4 - Se a data do evento for inferior a data atual o sistema retorna um alerta dizendo que a data é inválida (se for sim permite o cadastro se não mensagem de data invalida e vai paea o fim)
+5 - Se a data inserida for posterior ao dia atual o sistema pede a idade do participante.
+6 - Usuário digita sua data de nascimento
+7 - Se a idade inserida for menor que 18 anos o sistema retorna um alerta que não é possível fazer o cadastro e pergunta se o usuário deseja continuar, se idade inserida for maior ou igual a 18 o sistema irá pedir o nome dele.
+8 - O sistema irá perguntar se ele é um palestrante ou participante 
+9 - Divide a lista em participantes e palestrantes, depois verifica se há menos de 100 Participantes na lista de participantes.
+10 - Caso sim o cadastro para o evento é realizado, caso não, o sistema retorna uma alerta que excedeu o número de participantes e vai para o fim.
+11 - Fim
